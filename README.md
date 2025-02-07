@@ -1,4 +1,4 @@
-# Car Value Prediction
+# Car Price Prediction
 
 This project aims to predict the best car value based on various factors, including price, cost per mile, road test scores, predicted reliability, and car size. The dataset used contains information about cars and their associated features, and a linear regression model is built to predict the value score of each car.
 
